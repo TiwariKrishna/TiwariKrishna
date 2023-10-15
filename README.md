@@ -1,4 +1,6 @@
-![UPLOADbackground](https://github.com/TiwariKrishna/TiwariKrishna/assets/125963691/47e1bce9-2974-4c66-a3da-5a94dc2cfc04)<h1 align="center">Hi 👋, I'm krishna kant tiwari</h1>
+![mydp](https://github.com/TiwariKrishna/TiwariKrishna/assets/125963691/e012278f-5c6f-4a6f-9343-dcceaa36a1e1)
+
+<h1 align="center">Hi 👋, I'm krishna kant tiwari</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiwarikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="tiwarikrishna" /> </p>
